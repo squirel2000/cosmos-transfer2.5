@@ -4,7 +4,7 @@
   "prompt": "Overhead camera footage of a white Unitree G1 humanoid robot with black joints. The robot has a grey plastic body and grey mechanical hands. It is interacting with a cabinet drawer. A ceramic mug is stored inside the drawer. On top of the cabinet is a surface with a clean empty rubber mat and a plastic bottle. Bright fluorescent office lighting, domestic kitchen, neutral colors, 4k, sharp focus.",
   "negative_prompt": "mug on table, mug on mat, extra mug, cup on table, black robot hands, black arms, extra objects, floating objects, dark shadows, cinematic contrast, blurry, distorted, messy, grainy, night time",
   
-  "video_path": "vla_pipeline/data/input_video/episode_000001.mp4",
+  "video_path": "../data/input_video/episode_000001.mp4",
   
   "guidance": 7.0,
   
